@@ -1,4 +1,4 @@
-### w3-project_SQLvideoclub
+# README w3-project_SQLvideoclub
 
 
 PROYECTO SQL videoclub, creamos una base de datos relacional para un videoclub para poder hacer consultas, antes haremos limpia.
